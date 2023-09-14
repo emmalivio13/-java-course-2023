@@ -116,7 +116,7 @@ public class Exercise5 {
 		    public void displayVehicleInfo() {
 		        System.out.println("Vehicles on the link:");
 		        for (int i = 0; i < vehicleCount;
-
+		    }
 
 	}
 
